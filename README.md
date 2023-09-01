@@ -34,7 +34,7 @@
 3. 使用以下命令安装所需的依赖项：
 
    ```bash
-   pip install PyQt5 googletrans
+   pip install -r requirements.txt
    ```
 
 ## 使用方法

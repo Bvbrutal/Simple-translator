@@ -37,7 +37,7 @@ Translation App is a simple desktop application built using PyQt5 that provides 
 3. Install the required dependencies using the following command:
 
    ```bash
-   pip install PyQt5 googletrans
+   pip install -r requirements.txt
    ```
 
 ## Usage
