@@ -1,0 +1,2 @@
+PyQt5~=5.15.9
+googletrans~=4.0.0rc1
