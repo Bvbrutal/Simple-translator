@@ -18,7 +18,7 @@
 
 ## Introduction
 
-Translation App is a simple desktop application built using PyQt5 that provides local and online translation for English and Chinese text. It allows users to translate words, sentences, and paragraphs between English and Chinese languages.
+The translation application is a simple desktop application built using PyQt5, with only 500 lines of code to achieve most of the functions, not only provides local and online translation functions for English and Chinese texts, it allows users to translate words, sentences and paragraphs between English and Chinese , he would be a good tool.
 
 ## Features
 
